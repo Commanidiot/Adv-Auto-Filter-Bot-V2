@@ -94,7 +94,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('𝙤𝙩𝙝𝙚𝙧 𝙖𝙙𝙢𝙞𝙣 😳', url='https://t.me/Commanidiot')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('𝙃𝙚𝙡𝙥 ⚙', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -112,10 +112,9 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
-        InlineKeyboardButton('About 🚩', callback_data='about')
+        InlineKeyboardButton('𝙎𝙩𝙖𝙩𝙪𝙨 🔭', callback_data='status')
     ],[
-        InlineKeyboardButton('Close 🔐', callback_data='close')
+        InlineKeyboardButton(' 𝗖𝗹𝗼𝘀𝗲 🔐', callback_data='close')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -129,18 +128,17 @@ async def help(bot, update):
     )
 
 
-@Client.on_message(filters.command(["about"]) & filters.private, group=1)
+@Client.on_message(filters.command([" Status"]) & filters.private, group=1)
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
         InlineKeyboardButton('Close 🔐', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await bot.send_message(
         chat_id=update.chat.id,
-        text=Translation.ABOUT_TEXT,
+        text=Translation.STATUS_TEXT,
         reply_markup=reply_markup,
         disable_web_page_preview=True,
         parse_mode="html",

@@ -10,28 +10,7 @@ class Translation(object):
     Help_TEXT = """
 <b><i><u> 𝗢𝘂𝗿 𝗙𝗮𝗺𝗶𝗹𝘆 𝗥𝗼𝗼𝘁</u></i></b>
 𝗔𝗱𝗺𝗶𝗻 -<b><i><a href="https://t.me/NTG_family">𝗠𝘂𝗿𝗮𝗹𝗶</a></i></b>
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱

@@ -8,8 +8,7 @@ class Translation(object):
 𝙞 𝙛𝙤𝙧𝙜𝙤𝙩 𝙩𝙤 𝙞𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙚 𝙢𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙜𝙧𝙥 𝙞𝙨 <b><i><a href="https://t.me/T5links">𝙈𝙒 𝙒𝙊𝙍𝙇𝘿</a></i></b> 𝙞𝙛 𝙮𝙤𝙪𝙧 𝙣𝙤𝙩 𝙖 𝙢𝙚𝙢𝙗𝙚𝙧 𝙞𝙣 𝙤𝙪𝙧 𝙛𝙖𝙢𝙞𝙡𝙮 𝙜𝙤𝙝𝙚𝙖𝙙 𝙩𝙤 𝙗𝙚 𝙛𝙖𝙢𝙞𝙡𝙮
  <b><i><a href="https://t.me/NTG_family">𝙈𝙐𝙍𝘼𝙇𝙄</a></i></b>
 
-text=Translation.KNOWN_TEXT = """
-<b><i><u> 𝗢𝘂𝗿 𝗙𝗮𝗺𝗶𝗹𝘆 𝗥𝗼𝗼𝘁</u></i></b>
+
 
 𝗔𝗱𝗺𝗶𝗻 -<b><i><a href="https://t.me/NTG_family">𝗠𝘂𝗿𝗮𝗹𝗶</a></i></b>
 

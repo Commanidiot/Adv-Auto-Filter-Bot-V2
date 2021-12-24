@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Movie world ', url="https://t.me/T5links"
+                                    '💥 𝙉𝙀𝙒 𝙈𝙊𝙑𝙄𝙀 💥', url="https://t.me/T5links"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Movie world', url="https://t.me/T5links"
+                                    '💥 𝙉𝙀𝙒 𝙈𝙊𝙑𝙄𝙀 💥', url="https://t.me/T5links"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Movie world', url="https://t.me/T5links"
+                                    '💥 𝙉𝙀𝙒 𝙈𝙊𝙑𝙄𝙀 💥', url="https://t.me/T5links"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Movies Owner', url='https://t.me/NTG_Family'),
-        InlineKeyboardButton('Movies World', url ='https://t.me/T5links')
+        InlineKeyboardButton('𝘼𝘿𝙈𝙄𝙉 😼', url='https://t.me/NTG_Family'),
+        InlineKeyboardButton('🌟 𝙡𝙖𝙨𝙩𝙚𝙨𝙩 𝙢𝙤𝙫𝙞𝙚 🌟', url ='https://t.me/T5links')
     ],[
-        InlineKeyboardButton('Web series', url='https://t.me/T8links')
+        InlineKeyboardButton('𝙤𝙩𝙝𝙚𝙧 𝙖𝙙𝙢𝙞𝙣 😳', url='https://t.me/Commanidiot')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]

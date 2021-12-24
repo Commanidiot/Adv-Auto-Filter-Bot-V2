@@ -94,7 +94,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('𝙤𝙩𝙝𝙚𝙧 𝙖𝙙𝙢𝙞𝙣 😳', url='https://t.me/Commanidiot')
     ],[
-        InlineKeyboardButton('𝙃𝙚𝙡𝙥 ⚙', callback_data="help")
+        InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)

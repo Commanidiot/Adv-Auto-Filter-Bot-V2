@@ -94,7 +94,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('𝙤𝙩𝙝𝙚𝙧 𝙖𝙙𝙢𝙞𝙣 😳', url='https://t.me/Commanidiot')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('known ⚙', callback_data="known")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -109,8 +109,8 @@ async def start(bot, update):
     )
 
 
-@Client.on_message(filters.command(["help"]) & filters.private, group=1)
-async def help(bot, update):
+@Client.on_message(filters.command(["known"]) & filters.private, group=1)
+async def known(bot, update):
     buttons = [[
         InlineKeyboardButton('𝙎𝙩𝙖𝙩𝙪𝙨 🔭', callback_data='status')
     ],[
@@ -121,7 +121,7 @@ async def help(bot, update):
     
     await bot.send_message(
         chat_id=update.chat.id,
-        text=Translation.HELP_TEXT,
+        text=Translation.KNOWN_TEXT,
         reply_markup=reply_markup,
         parse_mode="html",
         reply_to_message_id=update.message_id

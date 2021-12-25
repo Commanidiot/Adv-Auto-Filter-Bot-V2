@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @NTG_Family
+# (c) @AlbertEinsteinTG
 
 class Translation(object):
     
-    START_TEXT = """<b>𝙔𝙊 𝙔𝙊 𝙂𝙤𝙤𝙙 𝙈𝙤𝙧𝙣𝙞𝙣𝙜 {} 𝙈𝙮 𝙁𝙧𝙞𝙚𝙣𝙙.𝙄𝙖𝙢 𝙥𝙤𝙬𝙚𝙧𝙛𝙪𝙡 𝙖𝙣𝙙 𝙬𝙤𝙧𝙠 𝙛𝙤𝙧 <b><i><a href="https://t.me/NTG_family">𝙈𝙪𝙧𝙖𝙡𝙞</a></i></b>!!</b> 𝙩𝙝𝙖𝙩 𝙢𝙚𝙖𝙣 𝙢𝙮 𝙖𝙙𝙢𝙞𝙣 
-𝙞 𝙛𝙤𝙧𝙜𝙤𝙩 𝙩𝙤 𝙞𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙚 𝙢𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙜𝙧𝙥 𝙞𝙨 <b><i><a href="https://t.me/T5links">𝙈𝙒 𝙒𝙊𝙍𝙇𝘿</a></i></b> 𝙞𝙛 𝙮𝙤𝙪𝙧 𝙣𝙤𝙩 𝙖 𝙢𝙚𝙢𝙗𝙚𝙧 𝙞𝙣 𝙤𝙪𝙧 𝙛𝙖𝙢𝙞𝙡𝙮 𝙜𝙤𝙝𝙚𝙖𝙙 𝙩𝙤 𝙗𝙚 𝙛𝙖𝙢𝙞𝙡𝙮
- <b><i><a href="https://t.me/NTG_family">𝙈𝙐𝙍𝘼𝙇𝙄</a></i></b>
+    START_TEXT = """<b>Hey {}!!</b>
+<i>Am Just A Advance Auto Filter Bot....😉
+Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+For More Details Click Help Button Below..
+@CrazyBotsz
+</i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>

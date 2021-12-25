@@ -27,7 +27,7 @@ class Translation(object):
  | 𝙒𝙚𝙗 𝙨𝙚𝙧𝙞𝙚𝙨              -<b><i><a href="https://t.me/T8links">𝙏𝙤 𝙅𝙤𝙞𝙣 </a></i></b>!!</b>
  | 𝘾𝙖𝙧𝙩𝙤𝙤𝙣                 -<b><i><a href="https://t.me/T6links">𝙏𝙤 𝙅𝙤𝙞𝙣</a></i></b>!!</b>
  | 𝙈𝙤𝙫𝙞𝙚 𝙐𝙥𝙙𝙖𝙩𝙚𝙨           -<b><i><a href="https://t.me/T0links">𝙏𝙤 𝙅𝙤𝙞𝙣</a></i></b>!!</b>
- | 𝙈𝙤𝙫𝙞𝙚𝙨 (𝘿𝙞𝙨𝙘𝙪𝙨𝙨)         -<b><i><a href="https://t.me/T11links">𝙏𝙤 𝙅𝙤𝙞𝙣</a></i></b>!!</b>                    
+ | 𝙈𝙤𝙫𝙞𝙚𝙨 (𝘿𝙞𝙨𝙘𝙪𝙨𝙨)         -<b><i><a href="https://t.me/T11links">𝙏𝙤 𝙅𝙤𝙞𝙣</a></i></b>!!</b>"""                   
 |------------------------------------
     
     ABOUT_TEXT =""" 

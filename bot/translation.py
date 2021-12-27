@@ -13,7 +13,8 @@ class Translation(object):
     HELP_TEXT = """
 <b><i><u>𝙈𝙊𝙑𝙄𝙀𝙎 𝙒𝙊𝙍𝙇𝘿 𝙏𝙍𝙀𝙀</u></i></b>
  <b><i><a href="https://t.me/c/1637152283/2">Just Touch</a></i></b>"""
-    ABOUT_TEXT =""" 
+    
+ABOUT_TEXT =""" 
 <b><i><u>𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 😍</u></i></b>
  # 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 - 𝑴𝒖𝒂𝒓𝒍𝒊
  # 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 - 𝑷𝒚𝒕𝒉𝒐𝒏

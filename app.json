@@ -26,6 +26,10 @@
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
+        },   
+        "IMDB": {
+            "description": "Imdb, the view of information when making True/False ",
+            "value": ""
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
